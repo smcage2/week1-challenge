@@ -17,7 +17,7 @@ This week's challenge is to refactor existing code for a marketing agency to mak
 
 https://smcage2.github.io/week1-challenge/
 
-![Horiseon webpage screenshot.](./assets/css/images/01-html-css-git-homework-demo.png)
+![Horiseon webpage screenshot.](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Usage
 Review the website using the above link.
